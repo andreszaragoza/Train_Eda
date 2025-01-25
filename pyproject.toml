@@ -17,6 +17,7 @@ spicy = "^0.16.0"
 ace = "^0.3.3"
 pyarrow = "^19.0.0"
 fastparquet = "^2024.11.0"
+scikit-learn = "^1.6.1"
 
 
 [tool.poetry.group.dev.dependencies]
