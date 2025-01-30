@@ -1,4 +1,3 @@
-Practica de computadora
 Autor: Andres Zaragoza
 
 ![](./image/dell-xps-14-vs-apple-macbook-pro-14-cnnu-cover.jpg)
