@@ -15,8 +15,6 @@ Autor: Andres Zaragoza
 
 4. Visualización de Datos
 
-5. Imágenes Representativas
-
 ## 🔍 **Exploración Inicial**
 
 - Se verifica que no hay valores nulos.
